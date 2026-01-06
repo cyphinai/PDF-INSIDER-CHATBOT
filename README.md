@@ -6,9 +6,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions based excl
 
 [Demo Video](https://github.com/cyphinai/PDF-INSIDER-CHATBOT/blob/main/PDF-CHATBOT.mp4)
 
-https://github.com/cyphinai/PDF-INSIDER-CHATBOT/assets/PDF-CHATBOT.mp4
 
----
 
 ## 🎯 What Does This Agent Do?
 

@@ -2,6 +2,17 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions based exclusively on the content of a PDF document. Built with Streamlit, LangChain, and Groq API, featuring **conversational memory** for handling follow-up questions.
 
+# 📚 PDF Insider ChatBot
+
+https://github.com/cyphinai/PDF-INSIDER-CHATBOT/assets/PDF-CHATBOT.mp4
+
+*Demo of PDF Insider ChatBot in action*
+
+---
+
+A powerful RAG (Retrieval Augmented Generation) chatbot that answers questions exclusively from PDF documents using LangChain, GROQ, and Streamlit.
+
+
 ## 🎯 What Does This Agent Do?
 
 This chatbot:
